@@ -1,6 +1,4 @@
 <?php
-echo "testing script"
-echo "wait me in other script"
 function get(){
 	return trim(fgets(STDIN));
 }
